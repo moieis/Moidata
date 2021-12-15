@@ -2,5 +2,5 @@
 
 
 
-You can now pipit at :
-pip install moidata
+You can now PIP IT at :
+# pip install moidata
