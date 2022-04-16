@@ -1,4 +1,10 @@
-# Moidata
+# Moidata Info !
+
+| Data type     | Requirements | Scheduling     |
+| :---        |    :----:   |          ---: |
+| Integer      | Pandas      | 2 * 2   |
+| Strings  | Numpy        | 3 * 3      |
+| Float   | openpyxl or xlsx | ~ * ~  |
 
 
 
