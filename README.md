@@ -1,5 +1,5 @@
 # Moidata Info !
-#
+
 
 | Data type     | Requirements | Scheduling     |
 | :---        |    :----:   |          ---: |
@@ -7,7 +7,7 @@
 | Strings  | Numpy        | 3 * 3      |
 | Float   | openpyxl or xlsx | ~ * ~  |
 
-
+#
 
 
 # You can now pip it  :
