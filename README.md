@@ -1,6 +1,12 @@
 # Moidata
 
-<span style="color:blue">some *blue* text</span>
 
-##  You can now PIP IT at :
+
+
+# You can now pip it  :
 ## pip install moidata
+
+# Or return to the official link of pypi :
+
+## [press here](https://pypi.org/project/moidata/)
+
